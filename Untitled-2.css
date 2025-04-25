@@ -29,7 +29,7 @@
   }
 
   .nav-list{
-    margin: 0 0 0 30px;
+    margin-bottom: 50px;
   }
 
   .logo-img{
@@ -40,10 +40,12 @@
   .logotipo {
     display: flex;
     align-items: center;
+    margin-top: 20px;
   }
   
   .logo-img {
-    max-height: 50px;
+    max-height: 250px;
+    max-width: 250px;
     margin-right: 10px;
   }
   
@@ -65,9 +67,9 @@
   
   /* Faixa */
   .heroi {
-    /* background-image: url('../imagens/banner.jpg');
-    background-size: cover; */
-    /* color: white; */
+    background-image: url('/img/luganenewlogo.jpg');
+    background-size: cover;
+    color: white;
     text-align: center;
     padding: 100px 0;
   }
